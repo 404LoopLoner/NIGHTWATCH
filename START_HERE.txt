@@ -1,0 +1,9 @@
+NIGHTWATCH PORTFOLIO RELEASE
+
+1) Start the backend first: see README.md > Run on Windows > Start the backend.
+2) Start the frontend in a second terminal: see README.md > Start the frontend.
+3) Test all tabs and Detection Lab presets.
+4) Before GitHub publication, follow docs/PROJECT_CHECKLIST.md.
+5) LinkedIn draft is in docs/LINKEDIN_POST.md.
+
+This is a synthetic-data portfolio prototype, not a production security system.
